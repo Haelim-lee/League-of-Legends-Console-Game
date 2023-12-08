@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\lol콘솔\lol콘솔\obj\Debug\lol콘솔.csprojAssemblyReference.cache
+C:\Users\user\source\repos\lol콘솔\lol콘솔\obj\Debug\lol콘솔.csproj.CoreCompileInputs.cache

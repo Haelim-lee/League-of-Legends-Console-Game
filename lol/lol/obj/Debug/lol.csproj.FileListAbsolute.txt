@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Project\lol\lol\bin\Debug\lol.exe.config
+C:\Users\user\Desktop\Project\lol\lol\bin\Debug\lol.exe
+C:\Users\user\Desktop\Project\lol\lol\bin\Debug\lol.pdb
+C:\Users\user\Desktop\Project\lol\lol\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Project\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project\lol\lol\obj\Debug\lol.exe
+C:\Users\user\Desktop\Project\lol\lol\obj\Debug\lol.pdb
+D:\Project\lol\lol\obj\Debug\lol.csproj.AssemblyReference.cache
+D:\Project\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+D:\Project\lol\lol\obj\Debug\lol.exe
+D:\Project\lol\lol\obj\Debug\lol.pdb
+D:\Project\lol\lol\bin\Debug\lol.exe.config
+D:\Project\lol\lol\bin\Debug\lol.exe
+D:\Project\lol\lol\bin\Debug\lol.pdb

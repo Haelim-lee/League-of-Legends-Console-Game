@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BC92B1B3-7D50-410C-ACFC-36952B080823}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>lol</RootNamespace>
+    <AssemblyName>lol</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="데이터베이스관리자.cs" />
+    <Compile Include="오브젝트\넥서스.cs" />
+    <Compile Include="레드팀.cs" />
+    <Compile Include="오브젝트\바론.cs" />
+    <Compile Include="블루팀.cs" />
+    <Compile Include="오브젝트\상점.cs" />
+    <Compile Include="스킬들\진스킬\강제관람.cs" />
+    <Compile Include="스킬들\우디르스킬\거북이태세.cs" />
+    <Compile Include="스킬들\가렌스킬\결정타.cs" />
+    <Compile Include="스킬들\잔나스킬\계절풍.cs" />
+    <Compile Include="스킬들\우디르스킬\곰태세.cs" />
+    <Compile Include="스킬들\카직스스킬\공포감지.cs" />
+    <Compile Include="스킬들\카직스스킬\공허의가시.cs" />
+    <Compile Include="스킬들\카직스스킬\공허의습격.cs" />
+    <Compile Include="스킬들\럭스스킬\광휘의특이점.cs" />
+    <Compile Include="스킬들\다리우스스킬\녹서스의단두대.cs" />
+    <Compile Include="스킬들\노틸스킬\닺줄견인.cs" />
+    <Compile Include="스킬들\자르반스킬\대격변.cs" />
+    <Compile Include="스킬들\오른스킬\대장장의신의부름.cs" />
+    <Compile Include="스킬들\자르반스킬\데마시아의깃발.cs" />
+    <Compile Include="스킬들\가렌스킬\데마시아의정의.cs" />
+    <Compile Include="스킬들\카직스스킬\도약.cs" />
+    <Compile Include="스킬들\다리우스스킬\마비의일격.cs" />
+    <Compile Include="스킬들\오른스킬\불꽃풀무질.cs" />
+    <Compile Include="스킬들\우디르스킬\불사조태세.cs" />
+    <Compile Include="스킬들\이즈스킬\비전이동.cs" />
+    <Compile Include="스킬들\럭스스킬\빛의속박.cs" />
+    <Compile Include="스킬들\진스킬\살상연희.cs" />
+    <Compile Include="스킬들\잔나스킬\서풍.cs" />
+    <Compile Include="스킬들\스킬정보.cs" />
+    <Compile Include="스킬들\에코스킬\시간도약.cs" />
+    <Compile Include="스킬들\에코스킬\시간의톱니바퀴.cs" />
+    <Compile Include="스킬들\에코스킬\시공간붕괴.cs" />
+    <Compile Include="스킬들\이즈스킬\신비한화살.cs" />
+    <Compile Include="스킬들\가렌스킬\심판.cs" />
+    <Compile Include="스킬들\미포스킬\쌍권총난사.cs" />
+    <Compile Include="스킬들\레오나스킬\여명의방패.cs" />
+    <Compile Include="스킬들\노틸스킬\역조.cs" />
+    <Compile Include="스킬들\가렌스킬\용기.cs" />
+    <Compile Include="스킬들\오른스킬\용암균열.cs" />
+    <Compile Include="스킬들\자르반스킬\용의일격.cs" />
+    <Compile Include="스킬들\잔나스킬\울부짖는돌풍.cs" />
+    <Compile Include="스킬들\레오나스킬\일식.cs" />
+    <Compile Include="스킬들\진스킬\춤추는유탄.cs" />
+    <Compile Include="스킬들\진스킬\커튼콜.cs" />
+    <Compile Include="스킬들\잔나스킬\폭풍의눈.cs" />
+    <Compile Include="스킬들\자르반스킬\황금빛방패.cs" />
+    <Compile Include="스킬들\이즈스킬\정수의흐름.cs" />
+    <Compile Include="스킬들\이즈스킬\정조준일격.cs" />
+    <Compile Include="스킬들\빅토르스킬\죽음의광선.cs" />
+    <Compile Include="스킬들\빅토르스킬\중력장.cs" />
+    <Compile Include="스킬들\레오나스킬\천공의검.cs" />
+    <Compile Include="스킬들\미포스킬\총알은비를타고.cs" />
+    <Compile Include="스킬들\럭스스킬\최후의섬광.cs" />
+    <Compile Include="스킬들\노틸스킬\타이탄의분노.cs" />
+    <Compile Include="스킬들\에코스킬\평행시간교차.cs" />
+    <Compile Include="스킬들\다리우스스킬\포획.cs" />
+    <Compile Include="스킬들\노틸스킬\폭뢰.cs" />
+    <Compile Include="스킬들\럭스스킬\프리즘보호막.cs" />
+    <Compile Include="스킬들\다리우스스킬\학살.cs" />
+    <Compile Include="스킬들\미포스킬\한발의두놈.cs" />
+    <Compile Include="스킬들\우디르스킬\호랑이태세.cs" />
+    <Compile Include="스킬들\빅토르스킬\혼돈의폭풍.cs" />
+    <Compile Include="스킬들\오른스킬\화염돌진.cs" />
+    <Compile Include="스킬들\미포스킬\활보.cs" />
+    <Compile Include="스킬들\레오나스킬\흑점폭팔.cs" />
+    <Compile Include="스킬들\빅토르스킬\힘의흡수.cs" />
+    <Compile Include="시스템.cs" />
+    <Compile Include="아이템들\도란검.cs" />
+    <Compile Include="아이템들\도란반지.cs" />
+    <Compile Include="아이템들\도란방패.cs" />
+    <Compile Include="아이템들\물약.cs" />
+    <Compile Include="아이템들\아이템.cs" />
+    <Compile Include="아이템들\아이템정보.cs" />
+    <Compile Include="아이템들\잉걸불칼.cs" />
+    <Compile Include="아이템들\주문도둑검.cs" />
+    <Compile Include="오브젝트\억제기.cs" />
+    <Compile Include="오브젝트\용.cs" />
+    <Compile Include="캐릭터들\가렌.cs" />
+    <Compile Include="게임실행.cs" />
+    <Compile Include="캐릭터들\노틸.cs" />
+    <Compile Include="캐릭터들\다리우스.cs" />
+    <Compile Include="라인\라인.cs" />
+    <Compile Include="캐릭터들\럭스.cs" />
+    <Compile Include="캐릭터들\레오나.cs" />
+    <Compile Include="미니언.cs" />
+    <Compile Include="라인\미드.cs" />
+    <Compile Include="캐릭터들\미스포춘.cs" />
+    <Compile Include="라인\바텀.cs" />
+    <Compile Include="캐릭터들\빅토르.cs" />
+    <Compile Include="라인\서포터.cs" />
+    <Compile Include="캐릭터들\소환사.cs" />
+    <Compile Include="스킬들\스킬.cs" />
+    <Compile Include="캐릭터들\스펠.cs" />
+    <Compile Include="캐릭터들\에코.cs" />
+    <Compile Include="캐릭터들\오른.cs" />
+    <Compile Include="캐릭터들\우디르.cs" />
+    <Compile Include="라인\원딜.cs" />
+    <Compile Include="캐릭터들\유닛.cs" />
+    <Compile Include="캐릭터들\이즈리얼.cs" />
+    <Compile Include="인공지능.cs" />
+    <Compile Include="캐릭터들\자르반.cs" />
+    <Compile Include="캐릭터들\잔나.cs" />
+    <Compile Include="라인\정글.cs" />
+    <Compile Include="라인\장소.cs" />
+    <Compile Include="캐릭터들\진.cs" />
+    <Compile Include="캐릭터들\챔피언.cs" />
+    <Compile Include="캐릭터들\카직스.cs" />
+    <Compile Include="라인\탑.cs" />
+    <Compile Include="팀.cs" />
+    <Compile Include="캐릭터들\플레이어.cs" />
+    <Compile Include="오브젝트\포탑.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,77 @@
+C:\Users\Dexterity\source\repos\lol\lol\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\Dexterity\source\repos\lol\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\Dexterity\source\repos\lol\lol\bin\Debug\lol.exe.config
+C:\Users\Dexterity\source\repos\lol\lol\bin\Debug\lol.exe
+C:\Users\Dexterity\source\repos\lol\lol\bin\Debug\lol.pdb
+C:\Users\Dexterity\source\repos\lol\lol\obj\Debug\lol.exe
+C:\Users\Dexterity\source\repos\lol\lol\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\lol (1)\lol\obj\Debug\lol.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\project\lol (1)\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\project\lol (1)\lol\obj\Debug\lol.exe
+\\Mac\Home\Desktop\project\lol (1)\lol\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\lol (1)\lol\bin\Debug\lol.exe.config
+\\Mac\Home\Desktop\project\lol (1)\lol\bin\Debug\lol.exe
+\\Mac\Home\Desktop\project\lol (1)\lol\bin\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\롤\bin\Debug\lol.exe.config
+C:\Users\Dexterity\Desktop\롤\bin\Debug\lol.exe
+C:\Users\Dexterity\Desktop\롤\bin\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\롤\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\Dexterity\Desktop\롤\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\Dexterity\Desktop\롤\obj\Debug\lol.exe
+C:\Users\Dexterity\Desktop\롤\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\롤\obj\Debug\lol.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\project\롤\obj\Debug\lol.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\project\롤\obj\Debug\lol.exe
+\\Mac\Home\Desktop\project\롤\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\롤\bin\Debug\lol.exe.config
+\\Mac\Home\Desktop\project\롤\bin\Debug\lol.exe
+\\Mac\Home\Desktop\project\롤\bin\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\롤 (2)\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\Dexterity\Desktop\롤 (2)\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\Dexterity\Desktop\롤 (2)\obj\Debug\lol.exe
+C:\Users\Dexterity\Desktop\롤 (2)\obj\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\롤 (2)\bin\Debug\lol.exe.config
+C:\Users\Dexterity\Desktop\롤 (2)\bin\Debug\lol.exe
+C:\Users\Dexterity\Desktop\롤 (2)\bin\Debug\lol.pdb
+\\Mac\Home\Desktop\project\롤 (2)\bin\Debug\lol.exe.config
+\\Mac\Home\Desktop\project\롤 (2)\bin\Debug\lol.exe
+\\Mac\Home\Desktop\project\롤 (2)\bin\Debug\lol.pdb
+\\Mac\Home\Desktop\project\롤 (2)\obj\Debug\lol.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\project\롤 (2)\obj\Debug\lol.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\project\롤 (2)\obj\Debug\lol.exe
+\\Mac\Home\Desktop\project\롤 (2)\obj\Debug\lol.pdb
+C:\Users\user\Desktop\코딩\롤 (2)\bin\Debug\lol.exe.config
+C:\Users\user\Desktop\코딩\롤 (2)\bin\Debug\lol.exe
+C:\Users\user\Desktop\코딩\롤 (2)\bin\Debug\lol.pdb
+C:\Users\user\Desktop\코딩\롤 (2)\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\user\Desktop\코딩\롤 (2)\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\코딩\롤 (2)\obj\Debug\lol.exe
+C:\Users\user\Desktop\코딩\롤 (2)\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\lol\obj\Debug\lol.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\project\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\project\lol\obj\Debug\lol.exe
+\\Mac\Home\Desktop\project\lol\obj\Debug\lol.pdb
+\\Mac\Home\Desktop\project\lol\bin\Debug\lol.exe.config
+\\Mac\Home\Desktop\project\lol\bin\Debug\lol.exe
+\\Mac\Home\Desktop\project\lol\bin\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\lol\obj\Debug\lol.csprojAssemblyReference.cache
+C:\Users\Dexterity\Desktop\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\Dexterity\Desktop\lol\obj\Debug\lol.exe
+C:\Users\Dexterity\Desktop\lol\obj\Debug\lol.pdb
+C:\Users\Dexterity\Desktop\lol\bin\Debug\lol.exe.config
+C:\Users\Dexterity\Desktop\lol\bin\Debug\lol.exe
+C:\Users\Dexterity\Desktop\lol\bin\Debug\lol.pdb
+C:\Users\user\Desktop\코딩\lol\bin\Debug\lol.exe.config
+C:\Users\user\Desktop\코딩\lol\bin\Debug\lol.exe
+C:\Users\user\Desktop\코딩\lol\bin\Debug\lol.pdb
+C:\Users\user\Desktop\코딩\lol\obj\Debug\lol.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\코딩\lol\obj\Debug\lol.exe
+C:\Users\user\Desktop\코딩\lol\obj\Debug\lol.pdb
+C:\Users\user\Desktop\코딩\lol\obj\Debug\lol.csprojAssemblyReference.cache
+D:\Project\lol한글\obj\Debug\lol.csproj.AssemblyReference.cache
+D:\Project\lol한글\obj\Debug\lol.csproj.CoreCompileInputs.cache
+D:\Project\lol한글\obj\Debug\lol.exe
+D:\Project\lol한글\obj\Debug\lol.pdb
+D:\Project\lol한글\bin\Debug\lol.exe.config
+D:\Project\lol한글\bin\Debug\lol.exe
+D:\Project\lol한글\bin\Debug\lol.pdb
